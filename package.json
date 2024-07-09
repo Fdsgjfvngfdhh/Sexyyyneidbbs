@@ -2,9 +2,9 @@
   "name": "quizv2",
 "version": "2.0.0",
  "description": "a simple fucking quiz api that got great features including leaderboard, lots of categories using two dependancy only",
-"main": "api.js",
+"main": "index.js",
 "scripts": {
-"start": "node api.js"
+"start": "node index.js"
 },
 "dependencies": {
 "express": "^4.18.2",    
