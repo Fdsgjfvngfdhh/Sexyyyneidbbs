@@ -10,13 +10,13 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
-    "dotenv": "^10.0.0", // For environment variables
+    "dotenv": "^10.0.0",
     "express": "^4.17.2",
-    "fs": "0.0.1-security", // Node.js file system module
-    "path": "^0.12.7", // Node.js path module
-    "uuid": "^8.3.2" // For generating unique IDs
+    "fs": "0.0.1-security", 
+    "path": "^0.12.7",
+    "uuid": "^8.3.2" 
   },
   "devDependencies": {
-    "nodemon": "^2.0.15" // Automatically restarts the server on file changes (development dependency)
+    "nodemon": "^2.0.15" 
   }
 }
