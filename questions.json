@@ -1,0 +1,44 @@
+{
+  "math": [
+    {
+      "id": "1",
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "id": "2",
+      "question": "What is the square root of 16?",
+      "options": ["2", "4", "8", "16"],
+      "answer": "4"
+    }
+  ],
+  "science": [
+    {
+      "id": "3",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "id": "4",
+      "question": "Who discovered penicillin?",
+      "options": ["Alexander Fleming", "Albert Einstein", "Marie Curie", "Isaac Newton"],
+      "answer": "Alexander Fleming"
+    }
+  ],
+  "history": [
+    {
+      "id": "5",
+      "question": "Who was the first president of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+      "answer": "George Washington"
+    },
+    {
+      "id": "6",
+      "question": "In which year did World War II end?",
+      "options": ["1945", "1918", "1939", "1950"],
+      "answer": "1945"
+    }
+  ]
+}
